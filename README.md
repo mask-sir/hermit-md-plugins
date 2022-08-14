@@ -104,3 +104,28 @@ https://gist.github.com/A-d-i-t-h-y-a-n/05ba2c693a4793fe6c1db452a6191207
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : Hermit-md
 <br />
 <br />
+__________________________________
+__________________________________
+
+## ▣ Need to add your plugin here?
+### ▣ JOIN THE WHATSAPP GROUP
+<br/>
+
+## ✆ Contact us 
+<details>
+<summary>🎈INFO</summary>
+<p>
+
+ᴄᴀɴ ʏᴏᴜ ɢɪᴠᴇ ᴍᴇ ᴀ sᴛᴀʀ ✫  ☻ <br /> <br />
+
+#### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
+『 HERMIT 』 <br />
+
+</p>
+</details>
+<br />
+
+### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
+◨ ᴍᴀsᴋ sᴇʀ◧ <br />
+
+ © HERMIT-MD
