@@ -40,17 +40,36 @@
   <div align="center"  
 
 
-<details>
 
+<details>
 
 >__________________________________
 
 
 <summary>🤔𝛮𝛯𝑊 𝛲𝐿𝑈𝐺𝛪𝛮𝑆</summary>
-
 <p>
 
->_____________<h4 align="center">  ᐉ OWNER </h1>
+>__________________________________
+ADDED
+`owner`
+`play`
+`mee`
+`mforward`
+`mention`
+`auto_reaction`
+>___________________________________
+
+
+</p>
+</details>
+
+>___________________________________
+
+
+>_____________________________________
+
+
+<h4 align="center">  ᐉ OWNER </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
 
@@ -151,7 +170,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 <h4 align="center">  ᐉ MFORWARD  </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITYAN</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
 
 
 ```js
@@ -163,7 +182,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : Hermit-md
 <br />
 <h4 align="center">  ᐉ AUTO REACTION  </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITYAN</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
 
 
 ```js
@@ -175,7 +194,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : Hermit-md
 <br />
 <h4 align="center">  ᐉ MENTION </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITYAN</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
 
 
 ```js
