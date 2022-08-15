@@ -49,66 +49,8 @@
 <summary>🤔𝛮𝛯𝑊 𝛲𝐿𝑈𝐺𝛪𝛮𝑆</summary>
 <p>
 
->__________________________________
-ADDED
 
-`owner`
-`play`
-`mee`
-`mforward`
-`mention`
-`auto_reaction`
->___________________________________
-
-
-</p>
-</details>
-
->___________________________________
-
-
->_____________________________________
-
-
-##         PLUGINS❤️📌
-
-<h4 align="center">  ᐉ OWNER </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
-
-
-```js
-https://gist.github.com/mask-sir/c83ba1bcf19279ffaa1bbce3db2803eb/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :OWNER VCARD <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ PLAY  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
-
-
-```js
-https://gist.github.com/A-d-i-t-h-y-a-n/f6f29b6d4356046467c4acf027ae9c2b/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : PLAY SONG <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ MEE </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/35ec40c8ee0bb2a28caf0c2ede986be8/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SELF MENTION <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br
-/>_____________________
+>_____________________
 
 ADDED
 `fd`
