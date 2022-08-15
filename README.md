@@ -53,6 +53,8 @@
 >_____________________
 
 ADDED
+`astatus`
+`#`
 `fd`
 `owner`
 `play`
@@ -70,12 +72,37 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-7-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-9-blue">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
 
 ### PLUGINS😍📌
+
+<h4 align="center">  ᐉ AUTOMATIC STATUS SENDER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/b46c0e947aa7952b6edf7423df08810e
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEND THE STATUS IF ANYONE ASK TO SEND <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ STATUS SAVER </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
+
+
+```js
+https://gist.github.com/mask-sir/3a865722fee78633abc610536f022959
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : STATUS SAVER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 
 <h4 align="center">  ᐉ FD </h1>
 
