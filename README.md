@@ -69,6 +69,8 @@ ADDED
 >_____________________________________
 
 
+##         PLUGINS❤️📌
+
 <h4 align="center">  ᐉ OWNER </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
