@@ -53,6 +53,10 @@
 >_____________________
 
 ADDED
+
+`auto group link delete`
+`mdfor`
+`joke`
 `tintu`
 `naruto`
 `sanime`
@@ -77,12 +81,56 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-14-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-17-blue">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
 
 ### PLUGINS😍📌
+
+<h4 align="center">  ᐉ AUTO GROUP LINK DELETE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/cbc0fe6e83d462d49db5d70ebb871799/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : AUTOMATICALLY DELETE GROUP LINKS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉMdFOR  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/6bc61840ea6232224f2ce8d8cf29b8d4/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FORWARD PLUGIN <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.mdfor 𝛥𝑅⁷⁷⁷;                 ⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ↻;07:05 ━━━━━━━━━━⬤──────────── 77:55;555555555555555;-77777777777777777;https://Instagram.com/hehe;https://wa.me/972528277755;https://i.imgur.com/XeKniGM.jpeg;https://i.imgur.com/9tRtHHn.jpeg;687823333@s.whatsapp.net
+```
+<br />
+<br />
+<h4 align="center">  ᐉ JOKE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">ADITHYAN</a>
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/15feb2217e6bedb9af9ccf289c3d38a1/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FUNNY JOKES <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 
 <h4 align="center">  ᐉTintu  </h1>
 
