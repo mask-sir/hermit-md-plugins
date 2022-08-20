@@ -87,6 +87,12 @@ ADDED
 
 <h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-22-blue">
 
+
+### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
+```
+https://gist.github.com/mask-sir/437edbf49c2ffc23c9323c78e8604f88/raw
+```
+
 _________________________________________________
 **[⬆ Back to Index](#index)**
 
