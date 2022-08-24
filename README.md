@@ -54,6 +54,7 @@
 
 ADDED
 
+`nowa`
 `scat`
 `birth`
 `aquote`
@@ -92,7 +93,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-28-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-29-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -106,6 +107,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗡𝗢𝗪𝗔 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N"> 𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/mask-sir/057c2ea4eec15f737dac5f3a03a5e432
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙵𝙸𝙻𝚃𝙴𝚁 𝙽𝚄𝙼𝙱𝙴𝚁𝚂 𝚆𝙷𝙸𝙲𝙷 𝙰𝚁𝙴𝙽'𝚃 𝚁𝙴𝙶𝙸𝚂𝚃𝙴𝚁𝙴𝙳 𝙾𝙽 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ SCAT </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">NEERAJ</a>
