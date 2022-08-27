@@ -53,7 +53,10 @@
 >_____________________
 
 ADDED
-
+`num`
+`ujid`
+`log`
+`getjids`
 `notepad`
 `gfxpack`
 `nowa`
@@ -95,7 +98,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-31-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-35-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -109,6 +112,54 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗡𝗨𝗠 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/f72ff49075c8834738946729ef4155cd
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚏𝚒𝚕𝚝𝚎𝚛 𝚌𝚘𝚞𝚗𝚝𝚛𝚢 𝚌𝚘𝚍𝚎 𝚒𝚗 𝚐𝚛𝚘𝚞𝚙 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗨𝗝𝗜𝗗 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/49e208676335df91fd1108f55e4e1aba/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚐𝚎𝚝 𝚊𝚕𝚕 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚓𝚒𝚍𝚜 𝚒𝚗 𝚐𝚛𝚘𝚞𝚙 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗟𝗢𝗚 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/aba65f48f7f61342c7c2f004ea5bb59f/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙶𝙴𝚃 𝙻𝙾𝙶 𝙾𝙵 𝚃𝙷𝙴 𝚁𝙴𝙿𝙻𝙸𝙴𝙳 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗴𝗲𝘁𝗷𝗶𝗱𝘀 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/8e4f1aae2094148daba24a7b907bb08b/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚐𝚎𝚝 𝚊𝚕𝚕 𝚐𝚛𝚘𝚞𝚙𝚜 𝚓𝚒𝚍𝚜 𝚊𝚗𝚍 𝚗𝚊𝚖𝚎 𝚒𝚗 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗡𝗢𝗧𝗘𝗣𝗔𝗗 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
