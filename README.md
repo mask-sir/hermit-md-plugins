@@ -53,6 +53,7 @@
 >_____________________
 
 ADDED
+`encode & decode`
 `num`
 `ujid`
 `log`
@@ -98,7 +99,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-35-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-36-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -112,6 +113,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗘𝗡𝗖𝗢𝗗𝗘𝗥𝗦 𝗔𝗡𝗗 𝗗𝗘𝗖𝗢𝗗𝗘𝗥𝗦 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/379dd75c62c15f845e5bbec6ffb106eb
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚋𝚊𝚜𝚎𝟼𝟺,𝚑𝚎𝚡 𝚎𝚗𝚌𝚘𝚍𝚎𝚛 𝚊𝚗𝚍 𝚍𝚎𝚌𝚘𝚍𝚎𝚛 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗡𝗨𝗠 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
