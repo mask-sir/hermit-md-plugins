@@ -53,6 +53,8 @@
 >_____________________
 
 ADDED
+
+`rvtxt`
 `encode & decode`
 `num`
 `ujid`
@@ -99,7 +101,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-36-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-37-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -113,6 +115,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗥𝗘𝗩𝗘𝗥𝗦𝗘 𝗧𝗘𝗫𝗧 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/4627666d32294870b525a288eaf49681
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚁𝙴𝚅𝙴𝚁𝚂𝙴 𝚃𝙷𝙴 𝚃𝙴𝚇𝚃 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗘𝗡𝗖𝗢𝗗𝗘𝗥𝗦 𝗔𝗡𝗗 𝗗𝗘𝗖𝗢𝗗𝗘𝗥𝗦 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
