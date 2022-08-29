@@ -54,6 +54,7 @@
 
 ADDED
 
+`cdate`
 `rvtxt`
 `encode & decode`
 `num`
@@ -101,7 +102,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-37-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-38-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -114,7 +115,18 @@ _________________________________________________
 
 ### PLUGINS😍📌
 
+<h4 align="center">  ᐉ 𝗖𝗢𝗨𝗡𝗧 𝗗𝗔𝗧𝗘 </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/8a49d4e1c2d0fa8bee2d6d23cad9ed0a
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙲𝙾𝚄𝙽𝚃 𝚃𝙷e 𝚁𝙴𝙼𝙰𝙸𝙽𝙸𝙽𝙶 𝙳𝙰𝚈𝚂 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗥𝗘𝗩𝗘𝗥𝗦𝗘 𝗧𝗘𝗫𝗧 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
