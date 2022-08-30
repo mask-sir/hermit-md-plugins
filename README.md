@@ -54,6 +54,7 @@
 
 ADDED
 
+`calc`
 `cdate`
 `rvtxt`
 `encode & decode`
@@ -102,7 +103,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-38-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-39-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -115,6 +116,19 @@ _________________________________________________
 
 ### PLUGINS😍📌
 
+
+<h4 align="center">  ᐉ 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-D-I-T-H-Y-A-N"> 𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/mask-sir/58d0689fdb7f24cfae2ee0e275b225d9
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚂𝙸𝙼𝙿𝙻𝙴 𝙲𝙰𝙻𝙲𝚄𝙻𝙰𝚃𝙾𝚁 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗖𝗢𝗨𝗡𝗧 𝗗𝗔𝗧𝗘 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
