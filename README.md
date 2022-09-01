@@ -54,6 +54,8 @@
 
 ADDED
 
+
+`bgm`
 `calc`
 `cdate`
 `rvtxt`
@@ -103,7 +105,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-39-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-40-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -117,6 +119,20 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗕𝗚𝗠 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+           &<a href="http://www.github.com/A-d-i-t-h-y-a-n">ADITHYAN</a>
+
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/f8b17ad4e66f8c2d8f1ed7b3d16f8cea/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙱𝙶𝙼 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-D-I-T-H-Y-A-N"> 𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
