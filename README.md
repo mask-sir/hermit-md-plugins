@@ -54,6 +54,8 @@
 
 ADDED
 
+`uglify`
+`mser`
 `shortlink`
 `intro`
 `bgm`
@@ -106,7 +108,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-42-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-44-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -120,6 +122,30 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗖𝗢𝗗𝗘 𝗠𝗜𝗡𝗜𝗙𝗬 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-ser">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/997afa311fd34aa28361c9d596723978
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙲𝙾𝙳𝙴 𝙼𝙸𝙽𝙸𝙵𝚈, 𝙱𝙴𝙰𝚄𝚃𝙸𝙵𝚈 𝙰𝙽𝙳 𝚄𝙶𝙻𝙸𝙵𝚈 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗠𝗦𝗘𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mrlinux0007">𝐀𝐃𝐄𝐄𝐋</a>
+
+
+```js
+https://gist.github.com/mrlinux007/dd18b5aca4e6474673b85b2054df77cf
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚛𝚊𝚗𝚍𝚘𝚖 𝙵𝙵𝙲 𝚜𝚝𝚒𝚌𝚔𝚎𝚛𝚜 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗟𝗜𝗡𝗞 𝗦𝗛𝗢𝗥𝗧𝗡𝗘𝗥 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-ser">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
