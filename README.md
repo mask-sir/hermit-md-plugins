@@ -54,6 +54,7 @@
 
 ADDED
 
+`enc`
 `uglify`
 `mser`
 `shortlink`
@@ -108,7 +109,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-44-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-45-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -122,6 +123,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗝𝗦-𝗢𝗕𝗙𝗨𝗖𝗔𝗧𝗢𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-d-i-t-h-y-a-n">𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/mask-sir/b69121eb6f54649c2ecd5f4d000b208f
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚘𝚋𝚞𝚏𝚞𝚜𝚌𝚊𝚝𝚘𝚛 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗖𝗢𝗗𝗘 𝗠𝗜𝗡𝗜𝗙𝗬 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-ser">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
