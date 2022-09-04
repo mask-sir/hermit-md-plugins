@@ -54,6 +54,8 @@
 
 ADDED
 
+`buyfood`
+`buycoffee`
 `enc`
 `uglify`
 `mser`
@@ -109,7 +111,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-45-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-47-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -123,6 +125,30 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗕𝗨𝗬𝗙𝗢𝗢𝗗 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/7b6ff656838a0e0cdb42a1bdd327bb5d
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙶𝙴𝚃 𝚁𝙰𝙽𝙳𝙾𝙼 𝙵𝙾𝙾𝙳 𝙿𝙸𝙲𝚂 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗕𝗨𝗬𝗖𝗢𝗙𝗙𝗘𝗘 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/e08aa660f7852502be7401f053e2ece0
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙶𝙴𝚃 𝚁𝙰𝙽𝙳𝙾𝙼 𝙲𝙾𝙵𝙵𝙴𝙴 𝙿𝙸𝙲𝚂 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗝𝗦-𝗢𝗕𝗙𝗨𝗖𝗔𝗧𝗢𝗥 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-d-i-t-h-y-a-n">𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
