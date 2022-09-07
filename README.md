@@ -53,7 +53,7 @@
 >_____________________
 
 ADDED
-
+`funpack`
 `fkick`
 `buyfood`
 `buycoffee`
@@ -112,7 +112,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-48-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-49-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -126,7 +126,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗙𝗨𝗡 𝗣𝗔𝗖𝗞 </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/9b167c0a773af68c9fb42506fa829f09
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙵𝚄𝙽 𝙿𝙰𝙲𝙺𝚂 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗙𝗞𝗜𝗖𝗞 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
