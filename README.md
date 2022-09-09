@@ -53,6 +53,8 @@
 >_____________________
 
 ADDED
+`piceditor`
+`autosticker`
 `funpack`
 `fkick`
 `buyfood`
@@ -112,7 +114,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-49-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-51-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -126,6 +128,30 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗣𝗜𝗖𝗘𝗗𝗜𝗧𝗢𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/nizamparkerz">𝐍𝐈𝐙𝐀𝐌</a>
+
+
+```js
+https://gist.github.com/nizamparkerz/9050b4ad49fb184f498767c65e1ff594/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙿𝙷𝙾𝚃𝙾 𝙴𝙳𝙸𝚃𝙾𝚁𝚂 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗔𝗨𝗧𝗢 𝗦𝗧𝗜𝗖𝗞𝗘𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-D-I-T-H-Y-A-N"> 𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/mask-sir/ac744367d3e5c1ecb19a93eec1c9f375
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚊𝚞𝚝𝚘 𝚖𝚊𝚝𝚒𝚌 𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗙𝗨𝗡 𝗣𝗔𝗖𝗞 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
