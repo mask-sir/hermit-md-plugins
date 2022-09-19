@@ -53,6 +53,7 @@
 >_____________________
 
 ADDED
+`sample plugins`
 `piceditor`
 `autosticker`
 `funpack`
@@ -121,6 +122,18 @@ ADDED
 ```
 https://gist.github.com/mask-sir/437edbf49c2ffc23c9323c78e8604f88/raw
 ```
+<h4 align="center">  ᐉ 𝗘𝗫𝗔𝗠𝗣𝗟𝗘 𝗣𝗟𝗨𝗚𝗜𝗡 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/A-D-I-T-H-Y-A-N">𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/c7499cf3aaf8a1790b64e73db8c14740
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝙴𝚇𝙰𝙼𝙿𝙻𝙴 𝙿𝙻𝚄𝙶𝙸𝙽 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
