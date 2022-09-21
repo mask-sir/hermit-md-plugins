@@ -53,6 +53,8 @@
 >_____________________
 
 ADDED
+`playstore`
+`slot`
 `sample plugins`
 `piceditor`
 `autosticker`
@@ -115,7 +117,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-51-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-53-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -141,6 +143,30 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗣𝗟𝗔𝗬𝗦𝗧𝗢𝗥𝗘 𝗦𝗘𝗔𝗥𝗖𝗛 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/nizamparkerz">𝐍𝐈𝐙𝐀𝐌</a>
+
+
+```js
+https://gist.github.com/nizamparkerz/f5d3c2c53f919ead43141f2a1572d12e
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝙿𝙻𝙰𝚈𝚂𝚃𝙾𝚁𝙴 𝚂𝙴𝙰𝚁𝙲𝙷 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
+<h4 align="center">  ᐉ 𝗦𝗟𝗢𝗧 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ A-D-I-T-H-Y-A-N"> 𝐀𝐃𝐈𝐓𝐇𝐘𝐀𝐍</a>
+
+
+```js
+https://gist.github.com/A-d-i-t-h-y-a-n/02b0e79cfb34afb1ef5bf9982991c67a
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :𝚂𝙻𝙾𝚃 𝙶𝙰𝙼𝙴 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗣𝗜𝗖𝗘𝗗𝗜𝗧𝗢𝗥 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/nizamparkerz">𝐍𝐈𝐙𝐀𝐌</a>
