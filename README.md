@@ -53,6 +53,7 @@
 >_____________________
 
 ADDED
+`pmblocker`
 `playstore`
 `slot`
 `sample plugins`
@@ -117,7 +118,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-53-blue">
+<h3 align="center">HERMIT-MD PLUGINS</h1><a href="https://github.com/mask-sir/hermit-md-plugins"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-54-blue">
 
 
 ### 𝙂𝞢𝙏 𝞓𝙇𝙇 𝞠𝙇𝙐𝙂𝞘𝞜𝙎 𝙅𝙐𝙎𝙏 𝞑𝙔 𝞘𝞜𝙎𝙏𝞓𝙇𝙇𝞘𝞜𝙂 𝙏𝞖𝞘𝙎:-
@@ -143,6 +144,18 @@ _________________________________________________
 ### PLUGINS😍📌
 
 
+<h4 align="center">  ᐉ 𝗣𝗠𝗕𝗟𝗢𝗖𝗞𝗘𝗥 </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">𝐌𝐀𝐒𝐊 𝐒𝐄𝐑</a>
+
+
+```js
+https://gist.github.com/mask-sir/4919ee9ecf4f76d49635e9b23a63dc78
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚌𝚑𝚊𝚝 𝚋𝚕𝚘𝚌𝚔𝚒𝚗𝚐 <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : hermit-md
+<br />
+<br />
 <h4 align="center">  ᐉ 𝗣𝗟𝗔𝗬𝗦𝗧𝗢𝗥𝗘 𝗦𝗘𝗔𝗥𝗖𝗛 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/nizamparkerz">𝐍𝐈𝐙𝐀𝐌</a>
