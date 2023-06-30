@@ -63,9 +63,5 @@
     "index": 0,
     "name": "example",
     "url": "https://example.com"
-  },
-  {
-    "name": "test",
-    "url": "example.com"
   }
 ]
